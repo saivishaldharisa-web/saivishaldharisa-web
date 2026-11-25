@@ -1,38 +1,41 @@
- 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Sai%20Vishal%20Dharisa&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Unconventional+Thinker;AI+and+Robotics+Enthusiast;Think+Different.+Build+Different." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=CS+Student+%40+Newton+School+of+Technology;Building+with+AI+and+LLMs;Hackathons+%7C+DSA+%7C+Full+Stack;Open+to+SDE+%2F+AI+Internships" />
+
+<a href="https://www.linkedin.com/in/sai-vishal-dharisa-58b82a416/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:saivishaldharisa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://myportfolio-mocha-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
-## ⚡ About Me
+## About Me
 
-- 🎓 Computer Science Student
-- 🧠 Passionate about unconventional thinking
-- 🌱 Currently learning DSA and Artificial Intelligence
-- 🎮 Building GameSwap
-- 🤖 Interested in Robotics and Hackathons
-- 🚀 Turning creative ideas into real-world solutions
+- 🎓 B.Tech Computer Science student at **Newton School of Technology**, Bengaluru
+- 🤖 Building interactive tools that explain how AI and LLMs work under the hood
+- 🏆 Hackathon regular: selected with Team ENE for **Goa Buildathon '27**
+- 🧠 Sharpening DSA and competitive programming (Codeforces)
+- 💼 **Looking for SDE / AI internships** (Bengaluru or remote)
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,git,github,vscode,vercel" />
 
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [🎮 GameSwap](https://github.com/saivishaldharisa-web/gameswap) | A platform for gamers to exchange game discs |
-| [🌐 My Portfolio](https://github.com/saivishaldharisa-web/my_portfolio) | My personal developer portfolio |
-| [🔍 Digital Detective](https://github.com/saivishaldharisa-web/digital-detective-8032) | Exploring computer science fundamentals |
+| Project | What it does | Stack | Live |
+|---------|--------------|-------|------|
+| [🧠 LLM Pipeline Explorer](https://github.com/saivishaldharisa-web/-llm-pipeline-explorer) | Interactive lab that shows how text becomes tokens and embeddings: train a tokenizer, plot sentences in 3D, compare cosine similarity | JavaScript, HTML/CSS | [Demo](https://llm-pipeline-explorer-vishal-fe67.vercel.app) |
+| [🎮 GameSwap](https://github.com/saivishaldharisa-web/gameswap) | Marketplace where gamers list and swap game discs | HTML, CSS, JS | |
+| [🌐 Portfolio](https://github.com/saivishaldharisa-web/my_portfolio) | Responsive personal portfolio site | HTML, CSS | [Site](https://myportfolio-mocha-eta.vercel.app) |
+| [🔍 Digital Detective](https://github.com/saivishaldharisa-web/digital-detective-8032) | CS fundamentals missions: terminal, OS, number systems, Git, networking | Python | |
 
-## 📊 GitHub Statistics
+## GitHub Stats
 
 <div align="center">
 
@@ -44,15 +47,9 @@
 
 </div>
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saivishaldharisa-web&theme=tokyo-night&hide_border=true" width="100%"/>
-
 <div align="center">
 
-### 💭 Think Different. Build Different.
-
-<img src="https://komarev.com/ghpvc/?username=saivishaldharisa-web&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
+### Think Different. Build Different.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" width="100%"/>
 
