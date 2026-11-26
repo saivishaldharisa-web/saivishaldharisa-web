@@ -30,8 +30,8 @@
 
 | Project | What it does | Stack | Live |
 |---------|--------------|-------|------|
-| [🧠 LLM Pipeline Explorer](https://github.com/saivishaldharisa-web/-llm-pipeline-explorer) | Interactive lab that shows how text becomes tokens and embeddings: train a tokenizer, plot sentences in 3D, compare cosine similarity | JavaScript, HTML/CSS | [Demo](https://llm-pipeline-explorer-vishal-fe67.vercel.app) |
 | [🎮 GameSwap](https://github.com/saivishaldharisa-web/gameswap) | Marketplace where gamers list and swap game discs | HTML, CSS, JS | |
+| [🧠 LLM Pipeline Explorer](https://github.com/saivishaldharisa-web/-llm-pipeline-explorer) | Interactive lab that shows how text becomes tokens and embeddings: train a tokenizer, plot sentences in 3D, compare cosine similarity | JavaScript, HTML/CSS | [Demo](https://llm-pipeline-explorer-vishal-fe67.vercel.app) |
 | [🌐 Portfolio](https://github.com/saivishaldharisa-web/my_portfolio) | Responsive personal portfolio site | HTML, CSS | [Site](https://myportfolio-mocha-eta.vercel.app) |
 | [🔍 Digital Detective](https://github.com/saivishaldharisa-web/digital-detective-8032) | CS fundamentals missions: terminal, OS, number systems, Git, networking | Python | |
 
